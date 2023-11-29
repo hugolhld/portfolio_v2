@@ -1,0 +1,6 @@
+.logo {
+    background: #fff;
+    color: #000;
+    -webkit-background-clip: text;
+    -webkit-text-stroke: 0.15em transparent;
+}
